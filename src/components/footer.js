@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
         <h1 className="credit">
           {" "}
-          created by <a href="#"> Hritik Singh </a> | all rights reserved!{" "}
+          created by <a href="#"> Arjun Patidar </a> | all rights reserved!{" "}
         </h1>
       </div>
     </>
